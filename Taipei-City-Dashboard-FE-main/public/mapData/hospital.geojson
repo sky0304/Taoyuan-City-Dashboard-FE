@@ -1,0 +1,515 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "長慎醫院(桃園市)",
+		  "dist": "中壢區",
+		  "addr": "中山東路二段525號1-2樓"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.2461445,
+			24.9468469
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "承安醫院(桃園市)",
+		  "dist": "中壢區",
+		  "addr": "延平路六四三號"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.2252974,
+			24.9599966
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "華揚醫院(桃園市)",
+		  "dist": "中壢區",
+		  "addr": "中北路二段316號"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.2299504,
+			24.9531213
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "懷寧醫院(桃園市)",
+		  "dist": "中壢區",
+		  "addr": "志廣路119號(不含8至9樓)及正光街229號1樓"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.2054961,
+			24.9614439
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "仁祥醫院(桃園市)",
+		  "dist": "中壢區",
+		  "addr": "中美路13.15.17號1-6樓"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.2261759,
+			24.9584858
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "中美醫院(桃園市)",
+		  "dist": "中壢區",
+		  "addr": "中美路95號1-3樓(含1樓夾層)"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.2251161,
+			24.9586345
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "天成醫療社團法人天晟醫院(桃園市)",
+		  "dist": "中壢區",
+		  "addr": "延平路155號"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.2290242,
+			24.9626431
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "新國民醫療社團法人新國民醫院(桃園市)",
+		  "dist": "中壢區",
+		  "addr": "復興路152號"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.2233987,
+			24.9542044
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "祐民醫院(桃園市)",
+		  "dist": "中壢區",
+		  "addr": "民族路二段一八○號"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.2035959,
+			24.9573033
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "中壢長榮醫院(桃園市)",
+		  "dist": "中壢區",
+		  "addr": "環中東路150號"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.257836,
+			24.9644573
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "宏其醫療社團法人宏其婦幼醫院(桃園市)",
+		  "dist": "中壢區",
+		  "addr": "元化路223號"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.2270322,
+			24.9611392
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "聯新國際醫院(桃園市)",
+		  "dist": "平鎮區",
+		  "addr": "廣泰路七七號、桃園市平鎮區延平路二段430巷115號"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.2061498,
+			24.9470409
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "新永和醫院(桃園市)",
+		  "dist": "平鎮區",
+		  "addr": "延平路一段８１號"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.2195637,
+			24.9514685
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "陽明醫院(桃園市)",
+		  "dist": "平鎮區",
+		  "addr": "延平路二段五十六號"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.2053963,
+			24.9296022
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "秉坤婦幼醫院(桃園市)",
+		  "dist": "平鎮區",
+		  "addr": "延平路二段129號"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.2115463,
+			24.9482283
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "宋俊宏婦幼醫院(桃園市)",
+		  "dist": "平鎮區",
+		  "addr": "民族路一九九號"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.2114002,
+			24.9561156
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "龍潭敏盛醫院(桃園市)",
+		  "dist": "龍潭區",
+		  "addr": "中豐路168號"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.2137879,
+			24.8751574
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "國軍桃園總醫院附設民眾診療服務處(桃園市)",
+		  "dist": "龍潭區",
+		  "addr": "中興路168號"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.2348227,
+			24.8769676
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "天成醫院(桃園市)",
+		  "dist": "楊梅區",
+		  "addr": "中山北路一段三五六號"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.1578933,
+			24.9086517
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "怡仁綜合醫院(桃園市)",
+		  "dist": "楊梅區",
+		  "addr": "楊新北路三二一巷三０號"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.1522813,
+			24.9125992
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "衛生福利部桃園醫院新屋分院(桃園市)",
+		  "dist": "新屋區",
+		  "addr": "新屋里14鄰新福二路六號"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.1062527,
+			24.9700155
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "衛生福利部桃園療養院(桃園市)",
+		  "dist": "桃園區",
+		  "addr": "龍壽街七一號"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.268138,
+			24.9839067
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "臺北榮民總醫院桃園分院(桃園市)",
+		  "dist": "桃園區",
+		  "addr": "成功路3段100號"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.3241788,
+			25.0043516
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "敏盛綜合醫院(桃園市)",
+		  "dist": "桃園區",
+		  "addr": "經國路168號"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.3061435,
+			25.0164076
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "聯新國際醫院桃新分院(桃園市)",
+		  "dist": "桃園區",
+		  "addr": "復興路195號、桃園市桃園區南海街7號"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.3089269,
+			24.9915216
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "振生醫院(桃園市)",
+		  "dist": "桃園區",
+		  "addr": "三民路二段２８８號"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.3095098,
+			24.9997325
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "衛生福利部桃園醫院(桃園市)",
+		  "dist": "桃園區",
+		  "addr": "中山路一四九二號"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.2969674,
+			24.9934099
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "德仁醫院(桃園市)",
+		  "dist": "桃園區",
+		  "addr": "桃鶯路245號"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.3186219,
+			24.984073
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "沙爾德聖保祿修女會醫療財團法人聖保祿醫院(桃園市)",
+		  "dist": "桃園區",
+		  "addr": "建新街123號"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.3122536,
+			24.9823214
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "長庚醫療財團法人林口長庚紀念醫院(桃園市)",
+		  "dist": "龜山區",
+		  "addr": "公西里復興街5號、5之7號"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.368415,
+			25.0605199
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "長庚醫療財團法人桃園長庚紀念醫院(桃園市)",
+		  "dist": "龜山區",
+		  "addr": "舊路里頂湖路123號、123之1號"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.3668496,
+			25.0297421
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "大明醫院(桃園市)",
+		  "dist": "龜山區",
+		  "addr": "萬壽路二段964號、966號"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.3377367,
+			24.9954127
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "大園敏盛醫院(桃園市)",
+		  "dist": "大園區",
+		  "addr": "華中街2號"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.1959554,
+			25.0623117
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "居善醫院(桃園市)",
+		  "dist": "大園區",
+		  "addr": "南港村大觀路910號"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.1656837,
+			25.0585865
+		  ]
+		}
+	  }
+	]
+  }

@@ -1,0 +1,1926 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "1",
+		  "dist": "桃園區",
+		  "addr": "桃園區成功路",
+		  "camera_direction": "往桃園市區方向",
+		  "Haya_gen": "40"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.3247527,
+			25.0072897
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "2",
+		  "dist": "桃園區",
+		  "addr": "桃園區春日路",
+		  "camera_direction": "往桃園市區方向",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.3124597,
+			25.0049995
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "3",
+		  "dist": "中壢區",
+		  "addr": "中壢區中山東",
+		  "camera_direction": "往市區方向",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.2436302,
+			24.9487467
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "4",
+		  "dist": "中壢區",
+		  "addr": "中壢區中園路",
+		  "camera_direction": "南下車道",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.2387343,
+			24.9867215
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "5",
+		  "dist": "中壢區",
+		  "addr": "中壢區中園路",
+		  "camera_direction": "往中壢方向",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.2293464,
+			25.0024763
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "6",
+		  "dist": "中壢區",
+		  "addr": "中壢區中正路",
+		  "camera_direction": "往中壢方向",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.174404,
+			24.9904469
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "7",
+		  "dist": "中壢區",
+		  "addr": "中壢區中正路",
+		  "camera_direction": "往中壢方向",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.195226,
+			24.977359
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "8",
+		  "dist": "中壢區",
+		  "addr": "中壢區新生路",
+		  "camera_direction": "往大園方向",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.2219984,
+			24.9913954
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "9",
+		  "dist": "中壢區",
+		  "addr": "中壢區民族路",
+		  "camera_direction": "往新屋方向",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.1586343,
+			24.9626775
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "10",
+		  "dist": "中壢區",
+		  "addr": "中壢區新生路",
+		  "camera_direction": "往中壢方向",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.222175,
+			24.9852355
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "11",
+		  "dist": "中壢區",
+		  "addr": "中壢區臺31",
+		  "camera_direction": "往南",
+		  "Haya_gen": "70"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.1929972,
+			24.9913722
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "12",
+		  "dist": "中壢區",
+		  "addr": "中壢區臺31",
+		  "camera_direction": "往北",
+		  "Haya_gen": "70"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.1929972,
+			24.9913722
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "13",
+		  "dist": "中壢區",
+		  "addr": "中壢區領航南",
+		  "camera_direction": "往北",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.2053963,
+			24.9721514
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "14",
+		  "dist": "中壢區",
+		  "addr": "中壢區中華路",
+		  "camera_direction": "往中壢方向",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.2413651,
+			24.9659841
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "15",
+		  "dist": "中壢區",
+		  "addr": "中壢區高鐵北",
+		  "camera_direction": "往大園方向",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.2053963,
+			24.9721514
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "16",
+		  "dist": "中壢區",
+		  "addr": "中壢區中園路",
+		  "camera_direction": "往大園方向",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.2319572,
+			24.9965277
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "17",
+		  "dist": "中壢區",
+		  "addr": "中壢區普忠路",
+		  "camera_direction": "往市區方向",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.2511524,
+			24.9525227
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "18",
+		  "dist": "平鎮區",
+		  "addr": "平鎮區環南路",
+		  "camera_direction": "南下車道",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.2066417,
+			24.9502343
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "19",
+		  "dist": "平鎮區",
+		  "addr": "平鎮區路橋南",
+		  "camera_direction": "北上車道",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.2053963,
+			24.9296022
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "20",
+		  "dist": "平鎮區",
+		  "addr": "平鎮區中豐路",
+		  "camera_direction": "往龍潭方向",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.212054,
+			24.893104
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "21",
+		  "dist": "平鎮區",
+		  "addr": "平鎮區中豐路",
+		  "camera_direction": "往中壢方向",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.2187218,
+			24.9550523
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "22",
+		  "dist": "平鎮區",
+		  "addr": "平鎮區民族路",
+		  "camera_direction": "往新屋方向",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.180317,
+			24.958342
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "23",
+		  "dist": "平鎮區",
+		  "addr": "平鎮區福龍路",
+		  "camera_direction": "往龍潭方向",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.2259958,
+			24.8967873
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "24",
+		  "dist": "平鎮區",
+		  "addr": "平鎮區延平路",
+		  "camera_direction": "往楊梅方向",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.2009484,
+			24.9378598
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "25",
+		  "dist": "平鎮區",
+		  "addr": "平鎮區中興路",
+		  "camera_direction": "往埔心方向",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.193664,
+			24.898372
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "26",
+		  "dist": "平鎮區",
+		  "addr": "平鎮區金陵路",
+		  "camera_direction": "往平鎮方向",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.2229896,
+			24.9407586
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "27",
+		  "dist": "平鎮區",
+		  "addr": "平鎮區中豐路",
+		  "camera_direction": "往平鎮方向",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.218257,
+			24.950768
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "28",
+		  "dist": "八德區",
+		  "addr": "八德區新生路",
+		  "camera_direction": "往平鎮方向",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.259181,
+			24.926731
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "29",
+		  "dist": "八德區",
+		  "addr": "八德區興豐路",
+		  "camera_direction": "往鶯歌方向",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.308546,
+			24.938421
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "30",
+		  "dist": "八德區",
+		  "addr": "八德區興豐路",
+		  "camera_direction": "往八德方向",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.308546,
+			24.938421
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "31",
+		  "dist": "八德區",
+		  "addr": "八德區介壽路",
+		  "camera_direction": "往大溪方向",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.297497,
+			24.9409119
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "32",
+		  "dist": "八德區",
+		  "addr": "八德區介壽路",
+		  "camera_direction": "往桃園方向",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.2974796,
+			24.9425853
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "33",
+		  "dist": "八德區",
+		  "addr": "八德區興豐路",
+		  "camera_direction": "往中壢方向",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.3083079,
+			24.938643
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "34",
+		  "dist": "八德區",
+		  "addr": "八德區中華路",
+		  "camera_direction": "往桃園方向",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.269884,
+			24.977488
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "35",
+		  "dist": "八德區",
+		  "addr": "八德區和平路",
+		  "camera_direction": "往交流道方向",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.3099818,
+			24.9582614
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "36",
+		  "dist": "八德區",
+		  "addr": "八德區和強路",
+		  "camera_direction": "往桃園向",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.3184315,
+			24.9606343
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "37",
+		  "dist": "大溪區",
+		  "addr": "大溪區)石園",
+		  "camera_direction": "往員樹林方向",
+		  "Haya_gen": "60"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.258876,
+			24.8697721
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "38",
+		  "dist": "大溪區",
+		  "addr": "大溪區信義路",
+		  "camera_direction": "北上車道",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.324083,
+			24.8942399
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "39",
+		  "dist": "大溪區",
+		  "addr": "大溪區崎頂下",
+		  "camera_direction": "往大溪方向",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.282295,
+			24.899925
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "40",
+		  "dist": "大溪區",
+		  "addr": "大溪區瑞安路",
+		  "camera_direction": "往崎頂方向",
+		  "Haya_gen": "60"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.2784167,
+			24.8749746
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "41",
+		  "dist": "大溪區",
+		  "addr": "大溪區瑞安路",
+		  "camera_direction": "往石門水庫方向",
+		  "Haya_gen": "60"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.2784167,
+			24.8749746
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "42",
+		  "dist": "大溪區",
+		  "addr": "大溪區介壽路",
+		  "camera_direction": "往桃園方向",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.2892037,
+			24.912318
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "43",
+		  "dist": "大溪區",
+		  "addr": "大溪區大鶯路",
+		  "camera_direction": "往大溪方向",
+		  "Haya_gen": "40"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.3198809,
+			24.9327561
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "44",
+		  "dist": "大溪區",
+		  "addr": "大溪區康莊路",
+		  "camera_direction": "往龍潭方向",
+		  "Haya_gen": "60"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.2662367,
+			24.8269628
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "45",
+		  "dist": "大溪區",
+		  "addr": "大溪區員林路",
+		  "camera_direction": "往龍潭方向",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.2811115,
+			24.8993832
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "46",
+		  "dist": "大溪區",
+		  "addr": "大溪區埔頂路",
+		  "camera_direction": "往八德方向",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.2809795,
+			24.9131809
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "47",
+		  "dist": "大溪區",
+		  "addr": "大溪區永昌路",
+		  "camera_direction": "往中壢方向",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.262498,
+			24.8979704
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "48",
+		  "dist": "大溪區",
+		  "addr": "大溪區復興路",
+		  "camera_direction": "往復興方向",
+		  "Haya_gen": "40"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.2888997,
+			24.880772
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "49",
+		  "dist": "大溪區",
+		  "addr": "大溪區仁和路",
+		  "camera_direction": "往大溪方向",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.2595411,
+			24.9119531
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "50",
+		  "dist": "大溪區",
+		  "addr": "大溪區康莊路",
+		  "camera_direction": "往大溪方向",
+		  "Haya_gen": "60"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.273075,
+			24.846693
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "51",
+		  "dist": "龜山區",
+		  "addr": "龜山區文化一",
+		  "camera_direction": "往龜山方向",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.374062,
+			25.057079
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "52",
+		  "dist": "龜山區",
+		  "addr": "龜山區復興三",
+		  "camera_direction": "往大埔方向",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.369965,
+			25.0430289
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "53",
+		  "dist": "龜山區",
+		  "addr": "龜山區萬壽路",
+		  "camera_direction": "北上車道",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.3852388,
+			25.0120338
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "54",
+		  "dist": "龜山區",
+		  "addr": "龜山區萬壽路",
+		  "camera_direction": "南下車道",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.3868147,
+			25.0119967
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "55",
+		  "dist": "龜山區",
+		  "addr": "龜山區東萬壽",
+		  "camera_direction": "南下車道",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.376376,
+			25.0094757
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "56",
+		  "dist": "龜山區",
+		  "addr": "龜山區東萬壽",
+		  "camera_direction": "北上車道",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.3750697,
+			25.0089425
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "57",
+		  "dist": "龜山區",
+		  "addr": "龜山區振興路",
+		  "camera_direction": "往桃園方向",
+		  "Haya_gen": "60"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.362755,
+			25.0216307
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "58",
+		  "dist": "龜山區",
+		  "addr": "龜山區忠義路",
+		  "camera_direction": "往林口方向",
+		  "Haya_gen": "60"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.3500753,
+			25.0207933
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "59",
+		  "dist": "龜山區",
+		  "addr": "龜山區忠義路",
+		  "camera_direction": "往林口方向",
+		  "Haya_gen": "60"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.3554304,
+			25.0356655
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "60",
+		  "dist": "龜山區",
+		  "addr": "龜山區忠義路",
+		  "camera_direction": "往桃園方向",
+		  "Haya_gen": "60"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.3554304,
+			25.0356655
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "61",
+		  "dist": "龜山區",
+		  "addr": "龜山區樂善村",
+		  "camera_direction": "往新莊方向",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.3913376,
+			25.0358276
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "62",
+		  "dist": "龜山區",
+		  "addr": "龜山區振興路",
+		  "camera_direction": "往龜山方向",
+		  "Haya_gen": "60"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.3749706,
+			25.0296641
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "63",
+		  "dist": "龜山區",
+		  "addr": "龜山區華亞三",
+		  "camera_direction": "往大埔方向",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.3770658,
+			25.0438447
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "64",
+		  "dist": "龜山區",
+		  "addr": "龜山區華亞三",
+		  "camera_direction": "往長庚方向",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.3770658,
+			25.0438447
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "65",
+		  "dist": "龍潭區",
+		  "addr": "龍潭區中豐路",
+		  "camera_direction": "南下車道",
+		  "Haya_gen": "60"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.2069125,
+			24.8358128
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "66",
+		  "dist": "龍潭區",
+		  "addr": "龍潭區福源路",
+		  "camera_direction": "往龍潭市區方向",
+		  "Haya_gen": "40"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.185085,
+			24.8259766
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "67",
+		  "dist": "龍潭區",
+		  "addr": "龍潭區中正路",
+		  "camera_direction": "往龍潭市區方向",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.229263,
+			24.8497165
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "68",
+		  "dist": "龍潭區",
+		  "addr": "龍潭區龍源路",
+		  "camera_direction": "往大溪方向",
+		  "Haya_gen": "60"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.2386578,
+			24.8260249
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "69",
+		  "dist": "龍潭區",
+		  "addr": "龍潭區中豐路",
+		  "camera_direction": "北向",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.2046032,
+			24.852064
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "70",
+		  "dist": "龍潭區",
+		  "addr": "龍潭區中正路",
+		  "camera_direction": "往石門水庫方向",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.2460684,
+			24.8374421
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "71",
+		  "dist": "龍潭區",
+		  "addr": "龍潭區中興路",
+		  "camera_direction": "往大溪方向",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.2490632,
+			24.8795703
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "72",
+		  "dist": "龍潭區",
+		  "addr": "龍潭區中豐路",
+		  "camera_direction": "北上車道",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.2024595,
+			24.8564647
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "73",
+		  "dist": "龍潭區",
+		  "addr": "龍潭區上坪1",
+		  "camera_direction": "往大溪方向",
+		  "Haya_gen": "60"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.2474495,
+			24.8253925
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "74",
+		  "dist": "龍潭區",
+		  "addr": "龍潭區聖亭路",
+		  "camera_direction": "往埔心方向",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.204508,
+			24.8704779
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "75",
+		  "dist": "蘆竹區",
+		  "addr": "蘆竹區仁愛路",
+		  "camera_direction": "往蘆竹方向",
+		  "Haya_gen": "40"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.310085,
+			25.0554407
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "76",
+		  "dist": "蘆竹區",
+		  "addr": "蘆竹區富國路",
+		  "camera_direction": "往蘆竹方向",
+		  "Haya_gen": "40"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.2662347,
+			25.045538
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "77",
+		  "dist": "蘆竹區",
+		  "addr": "蘆竹區大竹路",
+		  "camera_direction": "往桃園方向",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.2712,
+			25.0145407
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "78",
+		  "dist": "蘆竹區",
+		  "addr": "蘆竹區文中路",
+		  "camera_direction": "往桃園方向",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.2622482,
+			24.9892566
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "79",
+		  "dist": "蘆竹區",
+		  "addr": "蘆竹區中正北",
+		  "camera_direction": "往桃園方向",
+		  "Haya_gen": "60"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.278317,
+			25.043211
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "80",
+		  "dist": "蘆竹區",
+		  "addr": "蘆竹區中正北",
+		  "camera_direction": "往竹圍方向",
+		  "Haya_gen": "60"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.278317,
+			25.043211
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "81",
+		  "dist": "蘆竹區",
+		  "addr": "蘆竹區富國路",
+		  "camera_direction": "往桃園方向",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.2684477,
+			25.0398373
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "82",
+		  "dist": "蘆竹區",
+		  "addr": "蘆竹區南青路",
+		  "camera_direction": "往南方向",
+		  "Haya_gen": "60"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.2515192,
+			25.0473951
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "83",
+		  "dist": "蘆竹區",
+		  "addr": "蘆竹區山林路",
+		  "camera_direction": "往山腳方向",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.308091,
+			25.081982
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "84",
+		  "dist": "大園區",
+		  "addr": "大園區國際路",
+		  "camera_direction": "北上車道",
+		  "Haya_gen": "70"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.2440951,
+			25.1073861
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "85",
+		  "dist": "大園區",
+		  "addr": "大園區大觀路",
+		  "camera_direction": "南下車道",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.1737904,
+			25.0612555
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "86",
+		  "dist": "大園區",
+		  "addr": "大園區三民路",
+		  "camera_direction": "往竹圍方向",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.2589604,
+			25.0789771
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "87",
+		  "dist": "大園區",
+		  "addr": "大園區中正東",
+		  "camera_direction": "往桃園方向",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.223644,
+			25.045203
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "88",
+		  "dist": "大園區",
+		  "addr": "大園區中正東",
+		  "camera_direction": "往大園方向",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.223644,
+			25.045203
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "89",
+		  "dist": "大園區",
+		  "addr": "大園區大海村",
+		  "camera_direction": "往大園方向",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.227702,
+			25.055985
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "90",
+		  "dist": "大園區",
+		  "addr": "大園區三民路",
+		  "camera_direction": "往桃園方向",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.261425,
+			25.070161
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "91",
+		  "dist": "大園區",
+		  "addr": "大園區臺61",
+		  "camera_direction": "往南",
+		  "Haya_gen": "90"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.2004816,
+			25.0955046
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "92",
+		  "dist": "大園區",
+		  "addr": "大園區臺61",
+		  "camera_direction": "往北",
+		  "Haya_gen": "90"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.2004816,
+			25.0955046
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "93",
+		  "dist": "觀音區",
+		  "addr": "觀音區臺66",
+		  "camera_direction": "往大溪方向",
+		  "Haya_gen": "80"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.1116561,
+			24.9929678
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "94",
+		  "dist": "觀音區",
+		  "addr": "觀音區臺66",
+		  "camera_direction": "往新屋方向",
+		  "Haya_gen": "80"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.1366715,
+			24.9242108
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "95",
+		  "dist": "觀音區",
+		  "addr": "觀音區臺66",
+		  "camera_direction": "往高鐵方向",
+		  "Haya_gen": "80"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.0705474,
+			25.0199801
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "96",
+		  "dist": "觀音區",
+		  "addr": "觀音區臺66",
+		  "camera_direction": "往大溪方向",
+		  "Haya_gen": "80"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.0705474,
+			25.0199801
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "97",
+		  "dist": "觀音區",
+		  "addr": "觀音區臺66",
+		  "camera_direction": "往高鐵方向",
+		  "Haya_gen": "80"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.0745944,
+			25.018027
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "98",
+		  "dist": "觀音區",
+		  "addr": "觀音區臺66",
+		  "camera_direction": "往大溪方向",
+		  "Haya_gen": "80"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.0745944,
+			25.018027
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "99",
+		  "dist": "觀音區",
+		  "addr": "觀音區臺66",
+		  "camera_direction": "往台61方向",
+		  "Haya_gen": "80"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.062221,
+			25.0252432
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "100",
+		  "dist": "觀音區",
+		  "addr": "觀音區大觀路",
+		  "camera_direction": "北上車道",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.1383399,
+			25.0438264
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "101",
+		  "dist": "觀音區",
+		  "addr": "觀音區大觀路",
+		  "camera_direction": "南下車道",
+		  "Haya_gen": "70"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.086891,
+			25.025287
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "102",
+		  "dist": "觀音區",
+		  "addr": "觀音區濱海路",
+		  "camera_direction": "南下車道",
+		  "Haya_gen": "70"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.052455,
+			25.0169679
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "103",
+		  "dist": "觀音區",
+		  "addr": "觀音區成功路",
+		  "camera_direction": "往觀音工業區方向",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.1336655,
+			25.0551195
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "104",
+		  "dist": "新屋區",
+		  "addr": "新屋區濱海路",
+		  "camera_direction": "北上車道",
+		  "Haya_gen": "70"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.030853,
+			24.988993
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "105",
+		  "dist": "新屋區",
+		  "addr": "新屋區濱海路",
+		  "camera_direction": "南下車道",
+		  "Haya_gen": "70"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.030853,
+			24.988993
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "106",
+		  "dist": "新屋區",
+		  "addr": "新屋區中山西",
+		  "camera_direction": "往永安漁港方向",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.0448349,
+			24.9875375
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "107",
+		  "dist": "新屋區",
+		  "addr": "新屋區中山東",
+		  "camera_direction": "往中壢方向",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.1251651,
+			24.9722646
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "108",
+		  "dist": "新屋區",
+		  "addr": "新屋區臺66",
+		  "camera_direction": "往高鐵方向",
+		  "Haya_gen": "80"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.1229627,
+			24.9877717
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "109",
+		  "dist": "新屋區",
+		  "addr": "新屋區臺66",
+		  "camera_direction": "往大溪方向",
+		  "Haya_gen": "80"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.1229627,
+			24.9877717
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "110",
+		  "dist": "新屋區",
+		  "addr": "新屋區台15",
+		  "camera_direction": "往北方向",
+		  "Haya_gen": "70"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.011966,
+			24.955013
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "111",
+		  "dist": "楊梅區",
+		  "addr": "楊梅區中山南",
+		  "camera_direction": "南下車道",
+		  "Haya_gen": "70"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.122724,
+			24.9014889
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "112",
+		  "dist": "楊梅區",
+		  "addr": "楊梅區民富路",
+		  "camera_direction": "往楊梅方向",
+		  "Haya_gen": "50"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.1124506,
+			24.9242635
+		  ]
+		}
+	  },
+	  {
+		"type": "Feature",
+		"properties": {
+		  "name": "113",
+		  "dist": "楊梅區",
+		  "addr": "楊梅區梅獅路",
+		  "camera_direction": "往楊梅方向",
+		  "Haya_gen": "40"
+		},
+		"geometry": {
+		  "type": "Point",
+		  "coordinates": [
+			121.177747,
+			24.905577
+		  ]
+		}
+	  }
+	]
+  }

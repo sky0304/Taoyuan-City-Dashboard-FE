@@ -1,0 +1,36 @@
+{
+	"data": [
+		{
+			"name": "車禍資料",
+			"index": "car accident",
+			"components": [
+				"2000",
+				"2001",
+				"2002",
+				"2003",
+				"2004",
+				"2005",
+				"2006"
+			],
+			"icon": "123"
+		},
+		{
+			"name": "社會安全",
+			"index": "security",
+			"components": ["1000", "1001"],
+			"icon": "security"
+		},
+		{
+			"name": "收藏組件",
+			"index": "favorites",
+			"components": [],
+			"icon": "favorite"
+		},
+		{
+			"name": "圖資資訊",
+			"index": "map-layers",
+			"components": ["3000", "3001", "3002", "3003","3004","3005"],
+			"icon": "public"
+		}
+	]
+}

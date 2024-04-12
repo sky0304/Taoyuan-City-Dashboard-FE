@@ -1,0 +1,937 @@
+{
+	"data": {
+		"1000": {
+			"id": 1000,
+			"index": "police_station",
+			"map_config": [
+				{
+					"index": "police_station",
+					"paint": {
+						"circle-color": "#212A3E"
+					},
+					"property": [
+						{
+							"key": "name",
+							"name": "地點"
+						},
+						{
+							"key": "dist",
+							"name": "行政區"
+						},
+						{
+							"key": "addr",
+							"name": "地址"
+						}
+					],
+					"type": "circle",
+					"size":"big",
+					"title": "警局分布"
+				}
+			],
+			"chart_config": {
+				"types": ["DistrictChart", "ColumnChart", "RadarChart"],
+				"color": ["#212A3E"],
+				"unit": "間",
+				"map_filter": [
+					"dist",
+					[
+						"大園區",
+						"觀音區",
+						"龜山區",
+						"大溪區",
+						"龍潭區",
+						"楊梅區",
+						"桃園區",
+						"新屋區",
+						"中壢區",
+						"八德區",
+						"平鎮區",
+						"復興區",
+						"蘆竹區"
+					]
+				]
+			},
+			"name": "警局分布",
+			"source": "警政署",
+			"time_from": null,
+			"time_to": null,
+			"update_freq": null,
+			"update_freq_unit": null,
+			"short_desc": "顯示當前各派出所地點",
+			"long_desc": "顯示當前派出所地點，資料來源為桃園市警政署公開資料。",
+			"use_case": "透過桃園市警政署公開資料，我們能了解當前派出所地點分布情況，提供查看。",
+			"links": [
+				"https://data.tycg.gov.tw/opendata/datalist/datasetMeta?oid=dab92074-e386-4fe0-a2cd-e4f2cd0955f0"
+			],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"1001": {
+			"id": 1001,
+			"index": "speed_camera",
+			"map_config": [
+				{
+					"index": "speed_camera",
+					"paint": {
+						"circle-color": "#000000"
+					},
+					"property": [
+						{
+							"key": "name",
+							"name": "地點"
+						},
+						{
+							"key": "dist",
+							"name": "行政區"
+						},
+						{
+							"key": "addr",
+							"name": "地址"
+						},
+						{
+							"key": "camera_direction",
+							"name": "方向"
+						},
+						{
+							"key": "Haya_gen",
+							"name": "限速"
+						}
+					],
+					"type": "circle",
+					"size":"big",
+					"title": "測速照相分布"
+				}
+			],
+			"chart_config": {
+				"types": ["DistrictChart", "ColumnChart", "RadarChart"],
+				"color": ["#000000"],
+				"unit": "個",
+				"map_filter": [
+					"dist",
+					[
+						"大園區",
+						"觀音區",
+						"龜山區",
+						"大溪區",
+						"龍潭區",
+						"楊梅區",
+						"桃園區",
+						"新屋區",
+						"中壢區",
+						"八德區",
+						"平鎮區",
+						"復興區",
+						"蘆竹區"
+					]
+				]
+			},
+			"name": "測速照相分布",
+			"source": "警政署",
+			"time_from": null,
+			"time_to": null,
+			"update_freq": null,
+			"update_freq_unit": null,
+			"short_desc": "顯示當前各測速照相地點",
+			"long_desc": "顯示當前測速照相分布地點，資料來源為桃園市警政署公開資料。",
+			"use_case": "透過桃園市警政署公開資料，我們能了解當前測速照相分布情況，提供查看。",
+			"links": [
+				"https://data.tycg.gov.tw/opendata/datalist/datasetMeta?oid=ecd45ee5-4489-436b-bd08-7d4e4111c4a4"
+			],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"1002": {
+			"id": 1002,
+			"index": "hospital",
+			"map_config": [
+				{
+					"index": "hospital",
+					"paint": {
+						"circle-color": "#000"
+					},
+					"property": [
+						{
+							"key": "name",
+							"name": "地點"
+						},
+						{
+							"key": "dist",
+							"name": "行政區"
+						},
+						{
+							"key": "addr",
+							"name": "地址"
+						}
+					],
+					"type": "circle",
+					"title": "醫療院所分佈"
+				}
+			],
+			"chart_config": {
+				"color": ["#ffffff"],
+				"line-color": ["#ffffff"],
+				"types": ["DistrictChart", "ColumnChart"],
+				"unit": "間",
+				"map_filter": [
+					"dist",
+					[
+						"大園區",
+						"觀音區",
+						"龜山區",
+						"大溪區",
+						"龍潭區",
+						"楊梅區",
+						"桃園區",
+						"新屋區",
+						"中壢區",
+						"八德區",
+						"平鎮區",
+						"復興區",
+						"蘆竹區"
+					]
+				]
+			},
+			"name": "醫療院所分佈",
+			"source": "衛生局",
+			"time_from": "2021-02-05T10:48:26+08:00",
+			"short_desc": "此圖顯示各行政區醫療院所總和個數。",
+			"long_desc": "此圖顯示各行政區醫療院所總和個數。搭配地圖類型：Vonoroi diagram，顯示各地點距離最近的就診地，支援各區篩選功能。不定期更新。",
+			"use_case": "",
+			"links": [
+				"https://data.tycg.gov.tw/opendata/datalist/datasetMeta?oid=0d820802-a2ba-4bd1-8b80-33b3224a093e"
+			],
+			"contributors": ["tuic"]
+		},
+
+		  
+		"2000": {
+			"id": 2000,
+			"index": "metro_3d",
+			"history_data": true,
+			"map_config": null,
+			"chart_config": {
+				"color": ["#2e999b", "#80e3d4"],
+				"types": ["TimelineSeparateChart"],
+				"unit": "件"
+			},
+			"name": "車禍一年來的趨勢",
+
+			"time_from": "2021-05-26T23:29:00+08:00",
+			"time_to": null,
+			"update_freq": 1,
+			"update_freq_unit": "year"
+		},
+
+
+			"2001": {
+			"id": 2001,
+			"index": "January",
+			"map_config": [
+				{
+				"index": "January",
+				"paint": {
+				"circle-color": [
+				"case",
+				["==", ["get", "hours"], "06~08"],
+				"#ff0000",
+				["==", ["get", "hours"], "12~14"],
+				"#FFC436",
+				["==", ["get", "hours"], "16~18"],
+				"#0000ff",
+				"#9ADE7B"   
+				]
+				},
+				"property": [
+				{
+				"key": "date",
+				"name": "日期"
+				}, 
+				{
+				"key": "hours",
+				"name": "時段"
+				},      
+				{
+				"key": "addr",
+				"name": "地址"
+				},
+				{
+				"key": "dist",
+				"name": "行政區"
+				},
+				{
+				"key": "grade",
+				"name": "分級"
+				}
+				],
+				"title": "一月區域時段車禍圖",
+				"type": "circle",
+				"size": "big",
+				"icon": null
+				}
+			],
+			"map_filter": {
+				"mode": "byParam",
+				"byParam": {
+				"xParam": "dist",
+				"yParam": "hours"
+				}
+			},
+			"chart_config": {
+				"categories": [
+				"大園區",
+				"觀音區",
+				"龜山區",
+				"大溪區",
+				"龍潭區",
+				"楊梅區",
+				"桃園區",
+				"新屋區",
+				"中壢區",
+				"八德區",
+				"平鎮區",
+				"復興區",
+				"蘆竹區"
+				],
+				"types": ["HeatmapChart", "DistrictChart"],
+				"color": ["#A03A3B", "#BF672B", "#3A69A0"],
+				"unit": "件"
+			},
+			"name": "一月區域時段車禍圖",
+			"source": "警政署",
+			"time_from": "2021-01-01T10:46:50+08:00",
+			"time_to": "2021-01-31T17:34:44+08:00",
+			"update_freq": 1,
+			"update_freq_unit": "month",
+			"short_desc": "顯示桃園市一月區域時段車禍圖。",
+			"long_desc": "顯示桃園市一月區域時段車禍圖。",
+			"use_case": "顯示桃園市一月區域時段車禍圖。",
+			"links": ["https://data.tycg.gov.tw/opendata/datalist/datasetMeta?oid=af256309-2d0f-4599-82bc-b7f7f38b6089"],
+			"contributors": ["tuic"]
+			},
+
+				"2002": {
+					"id": 2002,
+					"index": "Febuary",
+					"map_config": [
+					 {
+					  "index": "Febuary",
+					  "paint": {
+					   "circle-color": [
+						"case",
+						["==", ["get", "hours"], "06~08"],
+						"#ff0000",
+						["==", ["get", "hours"], "12~14"],
+						"#FFC436",
+						["==", ["get", "hours"], "16~18"],
+						"#0000ff",
+						"#9ADE7B"   
+					   ]
+					  },
+					  "property": [
+					   {
+					 "key": "date",
+					 "name": "日期"
+					   }, 
+					   {
+					 "key": "hours",
+					 "name": "時段"
+					   },      
+					   {
+					 "key": "addr",
+					 "name": "地址"
+					   },
+					   {
+					 "key": "dist",
+					 "name": "行政區"
+					   },
+					   {
+					 "key": "grade",
+					 "name": "分級"
+					   }
+					  ],
+					  "title": "二月區域時段車禍圖",
+					  "type": "circle",
+					  "size": "big",
+					  "icon": null
+					 }
+					],
+					"map_filter": {
+					 "mode": "byParam",
+					 "byParam": {
+					  "xParam": "dist",
+					  "yParam": "hours"
+					 }
+					},
+					"chart_config": {
+					 "categories": [
+					  "大園區",
+					  "觀音區",
+					  "龜山區",
+					  "大溪區",
+					  "龍潭區",
+					  "楊梅區",
+					  "桃園區",
+					  "新屋區",
+					  "中壢區",
+					  "八德區",
+					  "平鎮區",
+					  "復興區",
+					  "蘆竹區"
+					 ],
+					 "types": ["HeatmapChart", "DistrictChart"],
+					 "color": ["#A03A3B", "#BF672B", "#3A69A0"],
+					 "unit": "件"
+					},
+					"name": "二月區域時段車禍圖",
+					"source": "警政署",
+					"time_from": "2021-02-01T10:46:50+08:00",
+					"time_to": "2021-02-29T17:34:44+08:00",
+					"update_freq": 1,
+					"update_freq_unit": "month",
+					"short_desc": "顯示桃園市二月區域時段車禍圖。",
+					"long_desc": "顯示桃園市二月區域時段車禍圖。",
+					"use_case": "顯示桃園市二月區域時段車禍圖。",
+					"links": ["https://data.tycg.gov.tw/opendata/datalist/datasetMeta?oid=af256309-2d0f-4599-82bc-b7f7f38b6089"],
+					"contributors": ["tuic"]
+					  },
+
+					  "2003": {
+						"id": 2003,
+						"index": "March",
+						"map_config": [
+							{
+								"index": "March",
+								"paint": {
+									"circle-color": [
+										"case",
+										["==", ["get", "time"], "06~08"],
+										"#ff0000",
+										["==", ["get", "time"], "12~14"],
+										"#FFC436",
+										["==", ["get", "time"], "16~18"],
+										"#0000ff",
+										"#9ADE7B"   	
+									]
+								},
+								"property": [
+									{
+										"key": "date",
+										"name": "日期"
+									   },	
+									   {
+										"key": "time",
+										"name": "時段"
+									   },			   
+									   {
+										"key": "addr",
+										"name": "地址"
+									   },
+									   {
+										"key": "dist",
+										"name": "行政區"
+									   },
+									   {
+										"key": "grade",
+										"name": "分級"
+									   }
+								],
+								"title": "三月區域時段車禍圖",
+								"type": "circle",
+								"size": "big",
+								"icon": null
+							}
+						],
+						"map_filter": {
+							"mode": "byParam",
+							"byParam": {
+								"xParam": "dist",
+								"yParam": "time"
+							}
+						},
+						"chart_config": {
+							"categories": [
+								"大園區",
+								"觀音區",
+								"龜山區",
+								"大溪區",
+								"龍潭區",
+								"楊梅區",
+								"桃園區",
+								"新屋區",
+								"中壢區",
+								"八德區",
+								"平鎮區",
+								"復興區",
+								"蘆竹區"
+							],
+							"types": ["HeatmapChart", "DistrictChart"],
+							"color": ["#A03A3B", "#BF672B", "#3A69A0"],
+							"unit": "件"
+						},
+						"name": "三月區域時段車禍圖",
+						"source": "警政署",
+						"time_from": "2021-03-01T10:46:50+08:00",
+						"time_to": "2021-03-31T17:34:44+08:00",
+						"update_freq": 1,
+						"update_freq_unit": "month",
+						"short_desc": "顯示桃園市三月區域時段車禍圖。",
+						"long_desc": "顯示桃園市三月區域時段車禍圖。",
+						"use_case": "顯示桃園市三月區域時段車禍圖。",
+						"links": ["https://data.tycg.gov.tw/opendata/datalist/datasetMeta?oid=af256309-2d0f-4599-82bc-b7f7f38b6089"],
+						"contributors": [	"tuic"]
+					},
+
+		"2004": {
+			"id": 2004,
+			"index": "reason",
+			"history_data": null,
+			"history_data_color": null,
+			"map_config": null,
+			"chart_config": {
+				"types": ["ColumnChart"],
+				"color": ["#cc998d", "#ADED64"],
+				"unit": "人",
+				"map_filter": {
+					"property": "type",
+					"values": ["A1", "A2"]
+				},
+				"categories": [
+					"未依規定讓車",
+					"未依規定左轉",
+					"迴轉未依規定",
+					"未注意車前狀態",
+					"違反號誌管制或指揮",
+					"違反特定標誌禁制",
+					"未保持行車安全間隔",
+					"酒醉駕駛失控",
+					"其他違規或不當行為"
+				]
+			},
+			"name": "事故發生原因",
+			"source": "警政署",
+			"time_from": null,
+			"time_to": null,
+			"update_freq": 1,
+			"update_freq_unit": "year",
+			"short_desc": "顯示全市各區的事故發生原因",
+			"long_desc": "顯示全市各區的事故發生原因，資料來源為桃園市警政署開放資料，每年更新。",
+			"use_case": "全市各區的事故發生原因透過圖表來呈現，有助於瞭解桃園市的交通事故資訊。",
+			"links": ["https://data.tycg.gov.tw/opendata/datalist/datasetMeta?oid=af256309-2d0f-4599-82bc-b7f7f38b6089"],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+
+		"2005": {
+			"id": 2005,
+			"index": "car_accident",
+			"map_config": [
+				{
+					"index": "car_accident",
+					"paint": {
+						"circle-color": "#526D82"
+					},
+					"property": [
+						{
+							"key": "grade",
+							"name": "分級"
+						},
+						{
+							"key": "name",
+							"name": "地點"
+						},
+						{
+							"key": "dist",
+							"name": "行政區"
+						},
+						{
+							"key": "addr",
+							"name": "地址"
+						}
+					],
+					"type": "circle",
+					"size": "small",
+					"title": "交通事故點位"
+				}
+			],
+			"chart_config": {
+				"types": ["DistrictChart", "BarChart"],
+				"color": ["#526D82"],
+				"unit": "件",
+				"map_filter": [
+					"dist",
+					[
+						"大園區",
+						"觀音區",
+						"龜山區",
+						"大溪區",
+						"龍潭區",
+						"楊梅區",
+						"桃園區",
+						"新屋區",
+						"中壢區",
+						"八德區",
+						"平鎮區",
+						"復興區",
+						"蘆竹區"
+					]
+				]
+			},
+			"name": "110年交通事故點位",
+			"source": "警政署",
+			"time_from": null,
+			"time_to": null,
+			"update_freq": 1,
+			"update_freq_unit": "year",
+			"short_desc": "顯示全市交通事故點位",
+			"long_desc": "顯示全市交通事故點位，資料來源為桃園市警政署公開資料，每年更新。",
+			"use_case": "顯示警政署掌握的交通事故資訊，對於了解桃園市交通事故數量與點位情況提供了重要參考。",
+			"links": [
+				"https://data.tycg.gov.tw/opendata/datalist/datasetMeta?oid=af256309-2d0f-4599-82bc-b7f7f38b6089"
+			],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+
+		"2006": {
+			"id": 2006,
+			"index": "circular",
+			"map_config": null,
+			"history_data": true,
+			"chart_config": {
+				"color": [
+					"#C5E1A5",
+					"#ADED64",
+					"#7BB661",
+					"#479562",
+					"#357664",
+					"#00563F",
+					"#04432C",
+					"#00EC00",
+					"#84C1FF"
+				],
+				"types": ["DonutChart", "BarChart"],
+				"unit": "件"
+			},
+			"name": "車禍車種比例",
+			"source": "車禍車種比例",
+			"time_from": null,
+			"time_to": null,
+			"update_freq": 1,
+			"update_freq_unit": "month",
+			"short_desc": "這個組件展示了105年桃園市陳情系統所收到的車禍案件的車種比例。",
+			"long_desc": "資料來源是桃園市交通局系統內部，每個月都會有更新。",
+			"use_case": "同時也提供了一年內車禍案件中各車種所佔比例的資料。",
+			"links": null,
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+
+		"3000": {
+			"id": 3000,
+			"index": "verhicle",
+			"map_config": [
+				{
+					"index": "verhicle",
+					"paint": {
+						"circle-color": "#F4BFBF"
+					},
+					"property": [
+						{
+							"key": "reason",
+							"name": "事故原因"
+						},
+						{
+							"key": "name",
+							"name": "地點"
+						},
+						{
+							"key": "dist",
+							"name": "行政區"
+						},
+						{
+							"key": "addr",
+							"name": "地址"
+						}
+					],
+					"type": "circle",
+					"size":"big",
+					"title": "未依規定讓車"
+				}
+			],
+			"chart_config": {
+				"types": ["MapLegend"],
+				"unit": "件"
+			},
+			"chart_data": [
+				{
+					"type": "circle",
+					"color": "#F4BFBF",
+					"name": "未依規定讓車",
+					"value": 3000
+				}
+			],
+			"source": "警政署",
+			"time_from": "2021-01-01T00:00:00+08:00",
+			"time_to": null,
+			"update_freq": 1,
+			"update_freq_unit": "month",
+			"name": "未依規定讓車",
+			"contributors": ["tuic"]
+		},
+		"3001": {
+			"id": 3001,
+			"index": "sign",
+			"map_config": [
+				{
+					"index": "sign",
+					"paint": {
+						"circle-color": "#EA7500"
+					},
+					"property": [
+						{
+							"key": "reason",
+							"name": "事故原因"
+						},
+						{
+							"key": "name",
+							"name": "地點"
+						},
+						{
+							"key": "dist",
+							"name": "行政區"
+						},
+						{
+							"key": "addr",
+							"name": "地址"
+						}
+					],
+					"type": "circle",
+					"size":"big",
+					"title": "違反交通號誌"
+				}
+			],
+			"chart_config": {
+				"types": ["MapLegend"],
+				"unit": "件"
+			},
+			"chart_data": [
+				{
+					"type": "circle",
+					"color": "#EA7500",
+					"name": "違反交通號誌",
+					"value": 1000
+				}
+			],
+			"source": "警政署",
+			"time_from": "2021-01-01T00:00:00+08:00",
+			"time_to": null,
+			"update_freq": 1,
+			"update_freq_unit": "month",
+			"name": "違反交通號誌",
+			"contributors": ["tuic"]
+		},
+		
+		"3002": {
+			"id": 3002,
+			"index": "violationleft",
+			"map_config": [
+				{
+					"index": "violation_left",
+					"property": [
+						{
+							"key": "reason",
+							"name": "事故原因"
+						},
+						{
+							"key": "name",
+							"name": "地點"
+						},
+						{
+							"key": "dist",
+							"name": "行政區"
+						},
+						{
+							"key": "addr",
+							"name": "地址"
+						}
+					],
+					"paint": {
+						"circle-color": "#548C00"
+					},
+					"type": "circle",
+					"title": "違規左轉",
+					"size": "big",
+					"icon": null
+				}
+			],
+			"chart_config": {
+				"types": ["MapLegend"]
+			},
+			"chart_data": [
+				{
+					"type": "circle",
+					"color": "#548C00",
+					"name": "違規左轉",
+					"value": 1900
+				}
+			],
+			"name": "違規左轉",
+			"source": "警政署",
+			"time_from": null,
+			"time_to": null,
+			"update_freq": 1,
+			"update_freq_unit": "month",
+			"contributors": ["tuic"]
+		},
+
+		"3003": {
+			"id": 3003,
+			"index": "drunk",
+			"map_config": [
+				{
+					"index": "drunk",
+
+					"property": [
+						{
+							"key": "reason",
+							"name": "酒駕"
+						},
+						{
+							"key": "name",
+							"name": "地點"
+						},
+						{
+							"key": "dist",
+							"name": "行政區"
+						},
+						{
+							"key": "addr",
+							"name": "地址"
+						}
+					],
+					"paint": {
+						"circle-color": "#818FB4"
+					},
+					"type": "circle",
+					"size":"big",
+					"title": "酒駕"
+				}
+			],
+			"chart_config": {
+				"types": ["MapLegend"]
+			},
+			"chart_data": [
+				{
+					"type": "circle",
+					"color": "#818FB4",
+					"name": "酒駕",
+					"value": 540
+				}
+			],
+			"name": "酒駕",
+			"source": "警政署",
+			"time_from": null,
+			"time_to": null,
+			"update_freq": 1,
+			"update_freq_unit": "month",
+			"contributors": ["tuic"]
+		},
+
+		"3004": {
+			"id": 3004,
+			"index": "school_station",
+			"map_config": [
+			 {
+				"index": "school_station",
+				"property": [
+				 {
+				  "key": "school",
+				  "name": "學校"
+				 },
+				 {
+				  "key": "dist",
+				  "name": "區域"
+				 },
+				 {
+				  "key": "addr",
+				  "name": "地址"
+				 },
+				 {
+				  "key": "tel",
+				  "name": "電話"
+				 }
+				],
+				"type": "symbol",
+				"icon": "school",
+				"title": "學校分佈"
+			   }
+			  ],
+			  "name": "學校分佈",
+			  "chart_config": {
+			   "types": ["MapLegend"]
+			  },
+			  "chart_data": [
+			   {
+				"type": "symbol",
+				"color": null,
+				"name": "學校",
+				"value": null,
+				"icon": "school"
+			   }
+			  ],
+			  "source": "教育局",
+			  "time_from": null,
+			  "time_to": null,
+			  "update_freq": null,
+			  "update_freq_unit": null,
+			  "contributors": ["tuic"]
+		   },
+
+		   "3005": {
+			"id": 3005,
+			"index": "hospital",
+			"map_config": [
+			 {
+			  "index": "hospital",
+			  "property": [
+			   {
+				"key": "name",
+				"name": "醫院"
+			   },
+			   {
+				"key": "dist",
+				"name": "區域"
+			   },
+			   {
+				"key": "addr",
+				"name": "地址"
+			   }
+			  ],
+			  "type": "symbol",
+			  "icon": "hospital",
+			  "title": "醫院"
+			 }
+			],
+			"name": "醫院分佈",
+			"chart_config": {
+			 "types": ["MapLegend"]
+			},
+			"chart_data": [
+			 {
+			  "type": "symbol",
+			  "color": null,
+			  "name": "醫院",
+			  "value": null,
+			  "icon": "hospital"
+			 }
+			],
+			"source": "衛生局",
+			"time_from": null,
+			"time_to": null,
+			"update_freq": null,
+			"update_freq_unit": null,
+			"contributors": ["tuic"]
+		   }
+
+	}
+}

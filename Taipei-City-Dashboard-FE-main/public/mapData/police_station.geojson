@@ -1,0 +1,1157 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "桃園分局",
+				"dist": "桃園區",
+				"addr": "力行路258號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2991068, 25.0000839]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "大樹派出所",
+				"dist": "桃園區",
+				"addr": "樹仁二街41號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3202184, 24.9780622]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "埔子派出所",
+				"dist": "桃園區",
+				"addr": "力行路258號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.299054, 25.0001591]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "青溪派出所",
+				"dist": "桃園區",
+				"addr": "鎮撫街39號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3141825, 24.9980527]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "中路派出所",
+				"dist": "桃園區",
+				"addr": "中山路704號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.293772, 24.99131]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "景福派出所",
+				"dist": "桃園區",
+				"addr": "民族路110號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3090392, 24.9926128]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "武陵派出所",
+				"dist": "桃園區",
+				"addr": "復興路135號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3121146, 24.9900362]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "同安派出所",
+				"dist": "桃園區",
+				"addr": "大興西路1段153號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3054061, 25.0144182]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "龍安派出所",
+				"dist": "桃園區",
+				"addr": "國豐一街101號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2811322, 24.9909892]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "大園分局",
+				"dist": "大園區",
+				"addr": "中正西路13號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.195741, 25.0634017]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "潮音派出所",
+				"dist": "大園區",
+				"addr": "北港里12鄰潮音北路473號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1714522, 25.0802757]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "觀音分駐所",
+				"dist": "觀音區",
+				"addr": "中山路14號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.0821112, 25.0365542]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "草漯派出所",
+				"dist": "觀音區",
+				"addr": "草新里1鄰大觀路2段77號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1429548, 25.0471997]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "新坡派出所",
+				"dist": "觀音區",
+				"addr": "中山路2段668號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1362044, 25.0126598]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "竹圍派出所",
+				"dist": "大園區",
+				"addr": "竹圍街10號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2438005, 25.104005]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "埔心派出所",
+				"dist": "大園區",
+				"addr": "埔心里埔心街1號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2244021, 25.0542409]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "大園派出所",
+				"dist": "大園區",
+				"addr": "中正西路13號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.195741, 25.0634017]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "三果派出所",
+				"dist": "大園區",
+				"addr": "三和路25號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.257167, 25.0732019]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "蘆竹分局",
+				"dist": "蘆竹區",
+				"addr": "南崁路175巷10-2號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2932774, 25.0471507]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "南崁派出所",
+				"dist": "蘆竹區",
+				"addr": "南崁路179號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2936949, 25.0473816]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "大竹派出所",
+				"dist": "蘆竹區",
+				"addr": "大竹路540號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2594456, 25.0241944]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "南竹派出所",
+				"dist": "蘆竹區",
+				"addr": "南竹路2段97號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2848687, 25.0413486]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "外社派出所",
+				"dist": "蘆竹區",
+				"addr": "山林路2段405號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3041719, 25.0834926]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "大溪分局",
+				"dist": "大溪區",
+				"addr": "普濟路9號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2871061, 24.8803483]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "復興分駐所",
+				"dist": "復興區",
+				"addr": "中正路2號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.350961, 24.814182]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "羅浮派出所",
+				"dist": "復興區",
+				"addr": "羅浮里3鄰3號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3648552, 24.7975344]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "榮華派出所",
+				"dist": "復興區",
+				"addr": "高義里11鄰卡義蘭2號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.347674, 24.7391911]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "巴陵派出所",
+				"dist": "復興區",
+				"addr": "華陵里9鄰44號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3985715, 24.6859473]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "奎輝派出所",
+				"dist": "復興區",
+				"addr": "奎輝里4鄰37號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3353273, 24.7961044]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "三光派出所",
+				"dist": "復興區",
+				"addr": "三光里7鄰武道能敢32號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3671854, 24.6720607]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "光華派出所",
+				"dist": "復興區",
+				"addr": "華陵里4鄰12號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3995747, 24.6553641]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "霞雲派出所",
+				"dist": "復興區",
+				"addr": "霞雲里6鄰21號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3839299, 24.816666]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "長興派出所",
+				"dist": "復興區",
+				"addr": "長興里16鄰29號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3071505, 24.7996404]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "溪內派出所",
+				"dist": "復興區",
+				"addr": "羅浮里河流2鄰51之2號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3680437, 24.8034094]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "三元派出所",
+				"dist": "大溪區",
+				"addr": "石園路53號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2652707, 24.8807248]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "圳頂派出所",
+				"dist": "大溪區",
+				"addr": "公園路46號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.283791, 24.9048559]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "內柵派出所",
+				"dist": "大溪區",
+				"addr": "內柵路1段56號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2812329, 24.8593448]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "中新派出所",
+				"dist": "大溪區",
+				"addr": "大鶯路1479號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3183889, 24.9301409]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "百吉派出所",
+				"dist": "大溪區",
+				"addr": "復興路2段209號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3092506, 24.8251006]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "三民派出所",
+				"dist": "復興區",
+				"addr": "三民里水流東路43號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3310843, 24.8321426]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "三層派出所",
+				"dist": "大溪區",
+				"addr": "復興路一段385號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.295029, 24.8578485]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "永福派出所",
+				"dist": "大溪區",
+				"addr": "信義路1127號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.324083, 24.8942399]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "南雅派出所",
+				"dist": "大溪區",
+				"addr": "康莊路181號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.288612, 24.8796775]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "福安派出所",
+				"dist": "大溪區",
+				"addr": "復興路一段890號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2865028, 24.8491756]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "慈湖分駐所",
+				"dist": "大溪區",
+				"addr": "復興路一段1268號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2928555, 24.8398361]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "中壢分局",
+				"dist": "中壢區",
+				"addr": "延平路607號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2223525, 24.9541224]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "文化派出所",
+				"dist": "中壢區",
+				"addr": "吉林路60號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2452712, 24.9790503]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "仁愛派出所",
+				"dist": "中壢區",
+				"addr": "華美一路101號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.26138, 24.9538299]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "興國派出所",
+				"dist": "中壢區",
+				"addr": "志廣路38號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.20873, 24.96036]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "龍興派出所",
+				"dist": "中壢區",
+				"addr": "龍勇路139號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2344039, 24.9384239]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "大崙派出所",
+				"dist": "中壢區",
+				"addr": "崇德路137號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1821021, 24.9895794]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "中福派出所",
+				"dist": "中壢區",
+				"addr": "南園二路86號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2334572, 24.9718093]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "內壢派出所",
+				"dist": "中壢區",
+				"addr": "中華路1段364號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2556332, 24.972119]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "普仁派出所",
+				"dist": "中壢區",
+				"addr": "日新路20號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2386621, 24.9540583]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "中壢派出所",
+				"dist": "中壢區",
+				"addr": "延平路607號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2223525, 24.9541224]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "自強派出所",
+				"dist": "中壢區",
+				"addr": "榮民路387號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2618322, 24.9615289]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "青埔派出所",
+				"dist": "中壢區",
+				"addr": "青埔路1段67號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2105349, 25.0138935]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "楊梅分局",
+				"dist": "楊梅區",
+				"addr": "中山路123號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.145824, 24.9068013]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "埔頂派出所",
+				"dist": "新屋區",
+				"addr": "中華南路2段445號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1186649, 24.9495557]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "幼獅派出所",
+				"dist": "楊梅區",
+				"addr": "幼獅路1段458號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1744487, 24.9255611]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "上湖派出所",
+				"dist": "楊梅區",
+				"addr": "楊湖路3段239號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.0948147, 24.912721]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "新屋分駐所",
+				"dist": "新屋區",
+				"addr": "中山路241號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1064891, 24.9724687]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "永安派出所",
+				"dist": "新屋區",
+				"addr": "中山西路3段62號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.0448349, 24.9875375]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "大坡派出所",
+				"dist": "新屋區",
+				"addr": "大坡里三角堀94號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.0385226, 24.9590618]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "富岡派出所",
+				"dist": "楊梅區",
+				"addr": "富源街22號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.0819093, 24.9355439]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "草湳派出所",
+				"dist": "楊梅區",
+				"addr": "永美路237號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1835439, 24.9186968]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "楊梅派出所",
+				"dist": "楊梅區",
+				"addr": "中山路123號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1459165, 24.9068269]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "平鎮分局",
+				"dist": "平鎮區",
+				"addr": "中庸路123號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2075109, 24.9131511]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "北勢派出所",
+				"dist": "平鎮區",
+				"addr": "振平街228號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.22089, 24.9419408]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "宋屋派出所",
+				"dist": "平鎮區",
+				"addr": "延平路2段412號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2062592, 24.9426132]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "平鎮派出所",
+				"dist": "平鎮區",
+				"addr": "中庸路123號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2075109, 24.9131511]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "建安派出所",
+				"dist": "平鎮區",
+				"addr": "金陵路5段108號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2311813, 24.909153]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "龍岡派出所",
+				"dist": "平鎮區",
+				"addr": "龍南路141號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2473221, 24.9238781]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "龜山分局",
+				"dist": "龜山區",
+				"addr": "萬壽路2段931號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3386469, 24.9952636]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "龜山派出所",
+				"dist": "龜山區",
+				"addr": "萬壽路2段931號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3386469, 24.9952636]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "大林派出所",
+				"dist": "龜山區",
+				"addr": "中興路158號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3322449, 24.9890196]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "大坑派出所",
+				"dist": "龜山區",
+				"addr": "大坑路一段851號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.31464, 25.0453057]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "大埔派出所",
+				"dist": "龜山區",
+				"addr": "文德二路80號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3816201, 25.0533717]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "迴龍派出所",
+				"dist": "龜山區",
+				"addr": "萬壽路1段117號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.4086217, 25.0188104]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "大華派出所",
+				"dist": "龜山區",
+				"addr": "文化七路135號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3652284, 25.0517338]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "坪頂派出所",
+				"dist": "龜山區",
+				"addr": "大崗里大湖一路65號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.356967, 25.0555205]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "八德分局",
+				"dist": "八德區",
+				"addr": "興豐路1216號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3086214, 24.9382949]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "八德派出所",
+				"dist": "八德區",
+				"addr": "中山路23號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2848205, 24.9295865]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "廣興派出所",
+				"dist": "八德區",
+				"addr": "廣興路829號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2838266, 24.9501101]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "四維派出所",
+				"dist": "八德區",
+				"addr": "重慶街148號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3027551, 24.9559603]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "高明派出所",
+				"dist": "八德區",
+				"addr": "永豐路160號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2787061, 24.9647974]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "大安派出所",
+				"dist": "八德區",
+				"addr": "和平路頂橋巷25號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3248208, 24.970419]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "龍潭分局",
+				"dist": "龍潭區",
+				"addr": "干城路21號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2076131, 24.8686221]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "三和派出所",
+				"dist": "龍潭區",
+				"addr": "龍新路三和段1050號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1750467, 24.8504029]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "高平派出所",
+				"dist": "龍潭區",
+				"addr": "中豐路高平段281號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2069125, 24.8358128]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "石門派出所",
+				"dist": "龍潭區",
+				"addr": "文化路230號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2413061, 24.842766]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "中興派出所",
+				"dist": "龍潭區",
+				"addr": "武漢路45號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2343375, 24.8726634]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "龍潭派出所",
+				"dist": "龍潭區",
+				"addr": "中山里大昌路1段277號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2203651, 24.8701615]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "聖亭派出所",
+				"dist": "龍潭區",
+				"addr": "干城路21號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.20766, 24.8686099]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "政府警察局",
+				"dist": "桃園區",
+				"addr": "縣府路3號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3019076, 24.9930441]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "警政大樓",
+				"dist": "桃園區",
+				"addr": "縣府路51號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2997995, 24.9933622]
+			}
+		}
+	]
+}
